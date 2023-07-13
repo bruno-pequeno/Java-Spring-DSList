@@ -40,14 +40,14 @@ public class Belonging {
     }
 
     @Override
+    public int hashCode() {
+        return Objects.hash(getId());
+    }
+    @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (!(o instanceof Belonging belonging)) return false;
         return getId().equals(belonging.getId());
     }
 
-    @Override
-    public int hashCode() {
-        return Objects.hash(getId());
-    }
 }
