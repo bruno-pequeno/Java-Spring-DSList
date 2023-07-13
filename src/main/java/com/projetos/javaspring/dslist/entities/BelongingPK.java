@@ -39,14 +39,14 @@ public class BelongingPK {
     }
 
     @Override
+    public int hashCode() {
+        return Objects.hash(getGame(), getList());
+    }
+    @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (!(o instanceof BelongingPK that)) return false;
         return getGame().equals(that.getGame()) && getList().equals(that.getList());
     }
 
-    @Override
-    public int hashCode() {
-        return Objects.hash(getGame(), getList());
-    }
 }
