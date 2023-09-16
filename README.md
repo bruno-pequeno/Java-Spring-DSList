@@ -23,8 +23,8 @@
     <br />
     
 <a href="#">
-  <img src="/assets/end-typeList.png" width="440" alt="preview" />
-  <img src="/assets/end-gameList.png" width="440" alt="preview" />
+  <img src="/assets/end-typeList.png" width="400" alt="preview" />
+  <img src="/assets/end-gameList.png" width="400" alt="preview" />
 </a>
 </div>
   <!-- project description and menu -->
