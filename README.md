@@ -10,8 +10,8 @@
 <div align="center" display="flex">
   
 <a href="#">
-  <img src="/assets/end-games.png" width="440" alt="preview" />
-  <img src="/assets/end-gamesId.png" width="440" alt="preview" />
+  <img src="/assets/end-games.png" width="400" alt="preview" />
+  <img src="/assets/end-gamesId.png" width="400" alt="preview" />
 </a>
 </div>
 
@@ -50,10 +50,10 @@
 </div>
 
 ## Sobre o projeto
-- [x] Este projeto  foi desenvolvido dentro de um dos cursos da plataforma DIO, que tinha como objetivo tirar aquele medo que normalmente temos quando tratamos de frameworks ou mesmo querer aprender e desenvolver usando um framework sem nem entender o que aquele framework está fazendo. Com isso, criamos o nossa própria tag HTML atráves da Shadow-D.O.M com as características que queriamos deixando ela dinâmica, colocamos dentro dela então através do Java Script  elementos HTML's e estilos para o projeto, sendo então junção de tudo isso o que conhecemos como um componente Web.
+- [x] Este projeto  foi desenvolvido em um intensivão de Java e Spring atráves do canal [DevSuperior](https://www.youtube.com/devsuperior) onde vimos a criação de uma aplicação back-end que serviria um front-end listando uma lista de jogos de diversas maneiras distintas. Com isso aprendemos a usar o padrão de camadas(Repository, Service, DTO e Controller), usamos também o padrão das propriedades de perfil(desenvolvimento, teste e produção), além do próprio aprendizado da implantação do SpringBoot, suas anotações, configurações e depêndencias gerenciadas pelo Maven. 
 
 <br />
 
 ## Feedback
-- Foi bem legal esse projeto, gostei bastante de desenvolver ele e agregou um grande valor ao meu conhecimento, pois agora entendi como funciona a criação de um componente manualmente, o por que utilizar um framework e como ele irá nos ajudar no desenvolvimento e produtividade, além de poder reutilizar componentes conforme a necessidade de cada projeto.
+- Conhecer um novo framework é sempre um desafio e essa foi uma das minhas primeiras aplicações mais robustas de Java com Spring, fiquei muito feliz com o resultado e gostei bastante por aprimorar meus comhecimentos numa linguagem que amo que é o Java e o aprendizado desse novo framework que é o Spring, vendo como ele facilita muito o desenvolvimento e despertou mais ainda o interesse em conhecer mais sobre ele e também sobre outros frameworks. 
 
