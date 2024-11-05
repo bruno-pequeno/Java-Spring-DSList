@@ -4,7 +4,7 @@
  <img src="/assets/icons8-java.png">
  <img src="/assets/icons8-spring.png">
   <br />
-   Aplicação back-end de para lista de jogos
+   Aplicação back-end para lista de jogos
 </h1>
 <br/>
 <div align="center" display="flex">
@@ -50,7 +50,7 @@
 </div>
 
 ## Sobre o projeto
-- [x] Este projeto  foi desenvolvido em um intensivão de Java e Spring atráves do canal [DevSuperior](https://www.youtube.com/devsuperior) onde vimos a criação de uma aplicação back-end que serviria um front-end listando uma lista de jogos de diversas maneiras distintas. Com isso aprendemos a usar o padrão de camadas(Repository, Service, DTO e Controller), usamos também o padrão das propriedades de perfil(desenvolvimento, teste e produção), além do próprio aprendizado da implantação do SpringBoot, suas anotações, configurações e depêndencias gerenciadas pelo Maven. 
+- [x] Este projeto  foi desenvolvido em um intensivão de Java e Spring atráves do canal [DevSuperior](https://www.youtube.com/devsuperior) onde vimos a criação de uma aplicação back-end que serviria um front-end mostrando uma lista de jogos de diversas maneiras distintas. Com isso aprendemos a usar o padrão de camadas(Repository, Service, DTO e Controller), usamos também o padrão das propriedades de perfil(desenvolvimento, teste e produção), além do próprio aprendizado da implantação do SpringBoot, suas anotações, configurações e depêndencias gerenciadas pelo Maven. 
 
 <br />
 
